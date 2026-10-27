@@ -4,7 +4,7 @@ Análise exploratória sobre a alta taxa de cancelamento de contratos de uma emp
 
 ## Problema de negócio
 
-A empresa vem perdendo clientes em um ritmo alto. A pergunta que guiou a análise foi: **o que está levando os clientes a cancelar o serviço?
+A empresa vem perdendo clientes em um ritmo alto. A pergunta que guiou a análise foi: **o que está levando os clientes a cancelar o serviço?**
 
 ## Base de dados
 
@@ -48,6 +48,8 @@ A empresa vem perdendo clientes em um ritmo alto. A pergunta que guiou a anális
 O código e os gráficos estão no notebook `Analise de cancelamento internet.ipynb`.
 
 ## Autor
+www.linkedin.com/in/bruno-fogaça-8b0086157
+
 
 Bruno Fogaça
 [LinkedIn](link) | [GitHub](https://github.com/Bruno-Fogaca)
